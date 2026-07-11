@@ -56,15 +56,6 @@ python app.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application here after uploading them to GitHub.
-
-Example:
-
-- Home Screen
-- Translation Output
-- Speak Feature
 
 ---
 
